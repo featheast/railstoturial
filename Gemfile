@@ -43,3 +43,4 @@ gem 'selenium-webdriver', '2.35.1', group: :test
 gem 'capybara', '2.1.0', group: :test
 gem 'pg', '0.15.1', group: :production
 gem 'rails_12factor', '0.0.2', group: :production
+gem 'minitest'
