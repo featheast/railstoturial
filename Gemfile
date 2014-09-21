@@ -44,3 +44,5 @@ gem 'capybara', '2.1.0', group: :test
 gem 'pg', '0.15.1', group: :production
 gem 'rails_12factor', '0.0.2', group: :production
 gem 'minitest'
+gem "bootstrap-sass", "2.3.2.0"
+gem "sprockets", "2.11.0"
